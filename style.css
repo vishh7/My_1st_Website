@@ -1,8 +1,6 @@
 body {
   background-image:
- url("background.jpg");
-  background-color;
- #cccccc;
+ url("/images/background.jpg");
 }
 #countLabel{
  display: block;
