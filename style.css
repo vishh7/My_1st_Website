@@ -13,13 +13,13 @@ body {
 }
 .buttons{
     padding: 10px,20px;
-    font-size: 1.5em;
+    /* font-size: 1.5em;
     color: aquamarine;
-    background-color: hsl(276, 91%, 50%);
+    background-color: hsl(276, 91%, 50%); */
     border-radius: 5px;
     cursor: pointer;
-    transition: background-color 0.25s;
+    /* transition: background-color 0.25s; */
 }
-.buttons:hover{
+/* .buttons:hover{
     background-color: hsl(276, 100%, 9%);
-}
+} */
