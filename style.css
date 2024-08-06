@@ -1,6 +1,6 @@
 body {
   background-image:
- url("premium_photo-1676654935937-109c7936b8ff.jpg");
+ url("background.jpg");
   background-color;
  #cccccc;
 }
@@ -8,7 +8,7 @@ body {
  display: block;
  text-align: center;
  font-size: 10em;
- font-family: 'Times New Roman', Times, serif;
+ font-family: 'f', Times, serif;
 }
 #BtnContainer{
     text-align: center;
